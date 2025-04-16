@@ -1,5 +1,4 @@
 from collections import defaultdict
-import re
 
 fix_messages = open('/Users/pavelshevchenko/Desktop/FIX Challenge/fix_sample.txt').read().strip().split("\n")
 
